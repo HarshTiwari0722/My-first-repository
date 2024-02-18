@@ -1,3 +1,3 @@
 # My-first-repository
 hii this is my first git repository.
-Authar-Harsh tiwari
+Author-Harsh tiwari
