@@ -1,2 +1,3 @@
 # My-first-repository
-hii this is my first git repository
+hii this is my first git repository.
+Authar-Harsh tiwari
